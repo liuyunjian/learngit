@@ -5,3 +5,4 @@ Creating is easy
 revise ceshi.txt for branch manage
 ceshi stash debuging branch
 ceshi stash dev on working branch
+ceshi feature on feature branch
